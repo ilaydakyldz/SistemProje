@@ -16,6 +16,8 @@ admin.rb tarafından gönderilen kapasite sorgularına yanıt verirler.
 Abone olma (SUBS), abonelikten çıkma (DEL) ve güncelleme işlemlerini desteklerler.
 dist_subs.conf dosyasından okunan hata tolerans seviyelerine göre çalışırlar.
 
+projemizin kodlarının çalıştırıldığı video linki: https://www.youtube.com/watch?v=wvGNQqAX04U
+
 22060390-Muhammed Murat Kaya
 22060329-Ceren Dilay Velioğlu
 22060366-İlayda Akyıldız
